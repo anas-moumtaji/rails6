@@ -34,9 +34,6 @@
 /config/master.key
 
 
-/Gemfile
-
-
 /public/packs
 /public/packs-test
 /node_modules
